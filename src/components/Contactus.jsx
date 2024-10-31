@@ -34,8 +34,8 @@ const ContactUs = () => {
               <h4 className="h4 mb-4 mt-10">Contact Information</h4>
               <p className="body-2 mb-[1rem] text-n-3">
                 Email:{" "}
-                <a href="mailto:jeffery@vivaconsulting.com" className="text-primary underline">
-                 jeffery@vivaconsulting.com
+                <a href="mailto:jeffery@vivablockchainconsulting.com" className="text-primary underline">
+                 jeffery@vivablockchainconsulting.com
                 </a>
               </p>
               <p className="body-2 mb-[3rem] text-n-3">
