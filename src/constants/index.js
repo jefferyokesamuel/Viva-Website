@@ -309,12 +309,12 @@ export const benefits = [
 ];
 
 export const socials = [
-  {
-    id: "1",
-    title: "Twitter",
-    iconUrl: twitter,
-    url: "#",
-  },
+  // {
+  //   id: "1",
+  //   title: "Twitter",
+  //   iconUrl: twitter,
+  //   url: "#",
+  // },
   {
     id: "3",
     title: "Telegram",
@@ -325,6 +325,6 @@ export const socials = [
     id: "4",
     title: "Linkedin",
     iconUrl: linkedin,
-    url: "#",
+    url: "https://www.linkedin.com/company/viva-blockchain-consulting",
   },
 ];
