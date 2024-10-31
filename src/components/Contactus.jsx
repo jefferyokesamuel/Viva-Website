@@ -49,7 +49,7 @@ const ContactUs = () => {
             {/* Right side: Contact Form or Thank You Message */}
             <div className="w-full lg:w-1/2">
               {state.succeeded ? (
-                <p className="text-center text-lg font-semibold">💜 Thanks for reaching out 💜</p>
+                <p className="text-center text-lg font-semibold">Thanks for reaching out 💜</p>
               ) : (
                 <form className="flex flex-col space-y-4" onSubmit={handleSubmit}>
                   <label htmlFor="name">
